@@ -18,4 +18,9 @@ The online_retail data description for Association Mining:
 | CustomerID:    | Customer number, a 5-digit integral number uniquely assigned to each customer.     |
 | Country:    | Country name, the name of the country where each customer resides   |
 
+
 The task is to conduct Association analysis on this data set.
+
+
+RESULS:
+
