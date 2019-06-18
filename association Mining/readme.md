@@ -7,22 +7,15 @@ The transactional dataset contains transactions (~500K) occurring between 01/12/
 
 The online_retail data description for Association Mining:
 
-InvoiceNo:
-Invoice number, a 6-digit integral number uniquely assigned to each transaction.
-Unique transaction identification number for a given sale. A sale may include several products and thus the same transaction id may occur over several rows.
-StockCode:
-Product (item) code, a 5-digit integral number uniquely assigned to each distinct product.
-InvoiceDate:
-Invoice Date and time, the day and time when each transaction was generated.
-Description:
-Product (item) name
-Quantity:
-The quantities of each product (item) per transaction
-UnitPrice:
-Unit price. Product price per unit in sterling
-CustomerID:
-Customer number, a 5-digit integral number uniquely assigned to each customer.
-Country:
-Country name, the name of the country where each customer resides
+| Name     | Description |
+| ---      | ---       |
+| InvoiceNo: | Invoice number, a 6-digit integral number uniquely assigned to each transaction.Unique transaction identification number for a given sale. A sale may include several products and thus the same transaction id may occur over several rows.         |
+| StockCode:     | Product (item) code, a 5-digit integral number uniquely assigned to each distinct product.       |
+| InvoiceDate:     | Invoice Date and time, the day and time when each transaction was generated.       |
+| Description:     | Product (item) name       |
+| Quantity:     | The quantities of each product (item) per transaction      |
+| UnitPrice:    | Unit price. Product price per unit in sterling      |
+| CustomerID:    | Customer number, a 5-digit integral number uniquely assigned to each customer.     |
+| Country:    | Country name, the name of the country where each customer resides   |
 
 The task is to conduct Association analysis on this data set.
