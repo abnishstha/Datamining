@@ -24,3 +24,4 @@ The task is to conduct Association analysis on this data set.
 
 RESULS:
 
+![ScreenShot](https://github.com/abnishstha/Datamining/blob/master/association%20Mining/Association_result.PNG)
