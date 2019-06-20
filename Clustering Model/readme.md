@@ -33,9 +33,9 @@ Result for K=4
 
 Add more information such as where the users come from and when they access the website, to the clustering analysis that you have conducted in the previous task.
 <br />
-Code: clustering_model.py
+<br /><br />Code: clustering_model.py
 <br />
-Finding Optimal K<br /><br />
+<br /><br />Finding Optimal K<br /><br />
 
 elbow_method:<br />
 
