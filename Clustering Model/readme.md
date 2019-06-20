@@ -10,7 +10,7 @@ Code: clustering_model.py
 Finding Optimal K
 
 elbow_method:
-![ScreenShot](https://github.com/abnishstha/Datamining/blob/master/association%20Mining/Association_result.PNG)
+![ScreenShot](https://github.com/abnishstha/Datamining/blob/master/Clustering%20Model/diags/1_elbow_method.png)
 
 ￼
 Silhouette score: 
@@ -25,7 +25,7 @@ Silhouette score for k=6 0.5597365643208325
 
 
 Result for K=4
-![ScreenShot](https://github.com/abnishstha/Datamining/blob/master/association%20Mining/Association_result.PNG)
+![ScreenShot](https://github.com/abnishstha/Datamining/blob/master/Clustering%20Model/diags/1_result.png)
 
 
 2. k-prototypes analysis for numerical+catagorical attributes.
@@ -37,7 +37,7 @@ Code: clustering_model.py
 Finding Optimal K
 
 elbow_method:
-![ScreenShot](https://github.com/abnishstha/Datamining/blob/master/association%20Mining/Association_result.PNG)
+![ScreenShot](https://github.com/abnishstha/Datamining/blob/master/Clustering%20Model/diags/2_elbow_method.png)
 
 ￼
 Silhouette score: 
@@ -56,4 +56,4 @@ Silhouette score for k=6 0.3349575101728609
 
 
 Result for K=6
-![ScreenShot](https://github.com/abnishstha/Datamining/blob/master/association%20Mining/Association_result.PNG)
+![ScreenShot](https://github.com/abnishstha/Datamining/blob/master/Clustering%20Model/diags/2_result.png)
