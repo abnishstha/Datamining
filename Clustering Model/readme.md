@@ -29,7 +29,7 @@ Result for K=4
 ![ScreenShot](https://github.com/abnishstha/Datamining/blob/master/Clustering%20Model/diags/1_result.png)
 
 <br /><br />
-2. k-prototypes analysis for numerical+catagorical attributes.
+Q2. k-prototypes analysis for numerical+catagorical attributes.
 
 Add more information such as where the users come from and when they access the website, to the clustering analysis that you have conducted in the previous task.
 <br />
